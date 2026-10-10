@@ -172,12 +172,7 @@ status: DEPLOYED
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SuyashGargote&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&icon_color=39ff14&title_color=39ff14&text_color=c9f7d6&cache_seconds=21600" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=SuyashGargote&theme=github-dark-blue&hide_border=true&background=00000000&ring=39ff14&fire=39ff14&currStreakLabel=39ff14" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuyashGargote&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=39ff14&text_color=c9f7d6&cache_seconds=21600"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SuyashGargote&theme=react-dark&hide_border=true&bg_color=00000000&color=39ff14&line=39ff14&point=ffffff&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SuyashGargote&theme=react-dark&hide_border=true&bg_color=0d1117&color=39ff14&line=39ff14&point=ffffff&area=true"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=SuyashGargote&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
 
