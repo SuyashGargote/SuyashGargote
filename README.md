@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1b1e,100:00ff9d&height=260&section=header&text=SUYASH%20GARGOTE&fontSize=52&fontColor=00FF9D&animation=twinkling&fontAlignY=38&desc=%3C%20OFFENSIVE%20SECURITY%20ENGINEER%20%2F%2F%20SYSTEM%20BREAKER%20%3E&descAlignY=58&descSize=17&descColor=39FF14"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1b1e,100:00ff9d&height=260&section=header&text=SUYASH%20GARGOTE&fontSize=52&fontColor=00FF9D&animation=twinkling&fontAlignY=38&desc=%5B%20OFFENSIVE%20SECURITY%20ENGINEER%20%2F%2F%20SYSTEM%20BREAKER%20%5D&descAlignY=58&descSize=17&descColor=39FF14"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=root%40suyash%3A~%23+whoami;%3E+ACCESS+GRANTED+...+LOADING+PROFILE;%3E+SCANNING+TARGET+...+PORTS+OPEN%3A+ALL;%3E+VAPT+%7C+BUG+BOUNTY+%7C+RED+TEAM+MINDSET;%3E+STATUS%3A+BREAKING+SYSTEMS+TO+SECURE+THEM"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=root%40suyash%3A~%23+whoami;%3E+ACCESS+GRANTED+...+LOADING+PROFILE;%3E+SCANNING+TARGET+...+PORTS+OPEN%3A+ALL;%3E+VAPT+%7C+BUG+BOUNTY+%7C+RED+TEAM+MINDSET;%3E+STATUS%3A+BREAKING+SYSTEMS+TO+SECURE+THEM"/>
 
 <br/>
 
@@ -172,10 +172,10 @@ status: DEPLOYED
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SuyashGargote&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&icon_color=39ff14&title_color=39ff14&text_color=c9f7d6" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SuyashGargote&theme=github-dark-blue&hide_border=true&background=00000000&ring=39ff14&fire=39ff14&currStreakLabel=39ff14" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SuyashGargote&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000&icon_color=39ff14&title_color=39ff14&text_color=c9f7d6&cache_seconds=21600" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=SuyashGargote&theme=github-dark-blue&hide_border=true&background=00000000&ring=39ff14&fire=39ff14&currStreakLabel=39ff14" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuyashGargote&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=39ff14&text_color=c9f7d6"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuyashGargote&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=00000000&title_color=39ff14&text_color=c9f7d6&cache_seconds=21600"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuyashGargote&theme=react-dark&hide_border=true&bg_color=00000000&color=39ff14&line=39ff14&point=ffffff&area=true"/>
 
